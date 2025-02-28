@@ -45,5 +45,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact Information
 For support or inquiries, please contact:
-- Your Name - [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Your Name - [panelselling@gmail.com](mailto:panelselling@gmail.com)
+- GitHub: [reaperpanels](https://github.com/reaperpanels)
