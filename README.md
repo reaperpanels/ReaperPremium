@@ -13,7 +13,7 @@ ReaperPremium V2.0 is a powerful application designed for premium user managemen
 - [Contact Information](#contact-information)
 
 ## Installation Instructions
-1. Download the latest release from the [Releases](https://github.com/yourusername/ReaperPremium/releases) page.
+1. Download the latest release from the [Releases](https://github.com/reaperpanels/ReaperPremium/releases) page.
 2. Run the installer and follow the prompts.
 3. Ensure you have the required dependencies installed (if any).
 
