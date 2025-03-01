@@ -28,12 +28,6 @@ ReaperPremium V2.0 is a powerful application designed for premium user managemen
 - Enhanced security measures
 - Notification system for updates and alerts
 
-## Changelog
-### v2.0
-- Initial release with core features.
-- Added auto-update functionality.
-- Improved user interface and performance.
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
