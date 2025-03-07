@@ -1,7 +1,7 @@
-# ReaperPremium V2.1
+# ReaperPremium
 
 ## Description
-ReaperPremium V2.1 is a powerful application designed for premium user management and authentication. It features an intuitive user interface, auto-update functionality, and enhanced security measures.
+ReaperPremium is a powerful application designed for premium user management and authentication. It features an intuitive user interface, auto-update functionality, and enhanced security measures.
 
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
